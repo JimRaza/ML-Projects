@@ -6,6 +6,6 @@ Machine learning and data science projects in Python
 4. Global temperature anomaly data modelling - 1. frequentist linear regression
 5. Global temperature anomaly data modelling - 2. Bayesian linear regression with Markov Chain Monte Carlo
 6. Global temperature anomaly data modelling - 3. Gaussian Process and Support Vector Regression
-7. Analysis of Spatio-Temporal Geolocation data - 1. Clustering with DBSCAN and Data Visualization
-8. Analysis of Spatio-Temporal Geolocation data - 2. Classification with Support Vector Machines
-9. Analysis of Spatio-Temporal Geolocation data - 3. Point Process Analysis and data Modelling with Poisson HMMs
+7. Spatio-Temporal Geolocation Data - 1. Clustering with DBSCAN and Data Visualization
+8. Spatio-Temporal Geolocation Data - 2. Classification with Support Vector Machines
+9. Spatio-Temporal Geolocation Data - 3. Point Process Analysis and Data Modelling with Poisson Hidden Markov Models
