@@ -11,3 +11,4 @@ Machine learning and data science projects in Python
 9. Spatio-Temporal Geolocation Data - 3. Point Process Analysis and Modelling with Poisson Hidden Markov Models
 10. Bitcoin Time Series Forecasting - 1. Baseline Predictive Models
 11. Bitcoin Time Series Forecasting - 2. Multilayer Perceptron Regression
+12. Bitcoin Time Series Forecasting - 2. Multilayer Perceptron Classification
