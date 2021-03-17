@@ -12,3 +12,4 @@ Machine learning and data science projects in Python
 10. Bitcoin Time Series Forecasting - 1. Baseline Predictive Models
 11. Bitcoin Time Series Forecasting - 2. Multilayer Perceptron Regression
 12. Bitcoin Time Series Forecasting - 2. Multilayer Perceptron Classification
+13. Bitcoin Time Series Forecasting - 2. Random Forest Classification
